@@ -1,0 +1,212 @@
+[
+    {
+        "start_date": "1 APR 2023",
+        "end_date": "8 APR 2023",
+        "value": "£37.21"
+    },
+    {
+        "start_date": "30 MAR 2023",
+        "end_date": "31 MAR 2023",
+        "value": "£10.09"
+    },
+    {
+        "start_date": "14 MAR 2023",
+        "end_date": "29 MAR 2023",
+        "value": "£121.70"
+    },
+    {
+        "start_date": "26 FEB 2023",
+        "end_date": "13 MAR 2023",
+        "value": "£145.58"
+    },
+    {
+        "start_date": "6 FEB 2023",
+        "end_date": "25 FEB 2023",
+        "value": "£158.14"
+    },
+    {
+        "start_date": "29 JAN 2023",
+        "end_date": "5 FEB 2023",
+        "value": "£67.63"
+    },
+    {
+        "start_date": "24 JAN 2023",
+        "end_date": "28 JAN 2023",
+        "value": "£49.47"
+    },
+    {
+        "start_date": "15 JAN 2023",
+        "end_date": "23 JAN 2023",
+        "value": "£96.36"
+    },
+    {
+        "start_date": "6 JAN 2023",
+        "end_date": "14 JAN 2023",
+        "value": "£75.55"
+    },
+    {
+        "start_date": "1 JAN 2023",
+        "end_date": "5 JAN 2023",
+        "value": "£49.23"
+    },
+    {
+        "start_date": "28 DEC 2022",
+        "end_date": "31 DEC 2022",
+        "value": "£38.86"
+    },
+    {
+        "start_date": "23 NOV 2022",
+        "end_date": "27 DEC 2022",
+        "value": "£389.34"
+    },
+    {
+        "start_date": "19 NOV 2022",
+        "end_date": "22 NOV 2022",
+        "value": "£37.92"
+    },
+    {
+        "start_date": "14 NOV 2022",
+        "end_date": "18 NOV 2022",
+        "value": "£30.14"
+    },
+    {
+        "start_date": "23 OCT 2022",
+        "end_date": "13 NOV 2022",
+        "value": "£141.80"
+    },
+    {
+        "start_date": "1 OCT 2022",
+        "end_date": "22 OCT 2022",
+        "value": "£34.64"
+    },
+    {
+        "start_date": "27 SEP 2022",
+        "end_date": "30 SEP 2022",
+        "value": "£3.61"
+    },
+    {
+        "start_date": "1 SEP 2022",
+        "end_date": "26 SEP 2022",
+        "value": "£29.48"
+    },
+    {
+        "start_date": "12 JUL 2022",
+        "end_date": "31 AUG 2022",
+        "value": "£46.25"
+    },
+    {
+        "start_date": "24 JUN 2022",
+        "end_date": "11 JUL 2022",
+        "value": "£20.63"
+    },
+    {
+        "start_date": "31 MAY 2022",
+        "end_date": "23 JUN 2022",
+        "value": "£25.53"
+    },
+    {
+        "start_date": "9 MAY 2022",
+        "end_date": "30 MAY 2022",
+        "value": "£21.63"
+    },
+    {
+        "start_date": "28 APR 2022",
+        "end_date": "8 MAY 2022",
+        "value": "£12.90"
+    },
+    {
+        "start_date": "18 APR 2022",
+        "end_date": "27 APR 2022",
+        "value": "£13.48"
+    },
+    {
+        "start_date": "2 APR 2022",
+        "end_date": "17 APR 2022",
+        "value": "£51.25"
+    },
+    {
+        "start_date": "31 MAR 2022",
+        "end_date": "1 APR 2022",
+        "value": "£4.20"
+    },
+    {
+        "start_date": "17 MAR 2022",
+        "end_date": "30 MAR 2022",
+        "value": "£29.25"
+    },
+    {
+        "start_date": "1 MAR 2022",
+        "end_date": "16 MAR 2022",
+        "value": "£71.66"
+    },
+    {
+        "start_date": "31 JAN 2022",
+        "end_date": "28 FEB 2022",
+        "value": "£138.44"
+    },
+    {
+        "start_date": "29 JAN 2022",
+        "end_date": "30 JAN 2022",
+        "value": "£11.00"
+    },
+    {
+        "start_date": "4 JAN 2022",
+        "end_date": "28 JAN 2022",
+        "value": "£93.89"
+    },
+    {
+        "start_date": "14 DEC 2021",
+        "end_date": "3 JAN 2022",
+        "value": "£73.35"
+    },
+    {
+        "start_date": "28 NOV 2021",
+        "end_date": "13 DEC 2021",
+        "value": "£139.81"
+    },
+    {
+        "start_date": "28 AUG 2021",
+        "end_date": "27 NOV 2021",
+        "value": "£318.07"
+    },
+    {
+        "start_date": "23 AUG 2021",
+        "end_date": "27 AUG 2021",
+        "value": "£3.38"
+    },
+    {
+        "start_date": "28 JUL 2021",
+        "end_date": "22 AUG 2021",
+        "value": "£19.45"
+    },
+    {
+        "start_date": "25 JUN 2021",
+        "end_date": "27 JUL 2021",
+        "value": "£23.00"
+    },
+    {
+        "start_date": "27 MAY 2021",
+        "end_date": "24 JUN 2021",
+        "value": "£24.03"
+    },
+    {
+        "start_date": "1 MAY 2021",
+        "end_date": "26 MAY 2021",
+        "value": "£59.04"
+    },
+    {
+        "start_date": "15 MAR 2021",
+        "end_date": "30 APR 2021",
+        "value": "£122.26"
+    },
+    {
+        "start_date": "22 FEB 2021",
+        "end_date": "14 MAR 2021",
+        "value": "£79.71"
+    },
+    {
+        "start_date": "29 JAN 2021",
+        "end_date": "21 FEB 2021",
+        "value": "£139.43"
+    }
+]
