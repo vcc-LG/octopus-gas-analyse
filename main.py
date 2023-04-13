@@ -1,9 +1,7 @@
 import datetime
 import json
-from collections import OrderedDict
 from datetime import datetime, timedelta
 
-import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
 
