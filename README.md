@@ -34,6 +34,7 @@ python3 main.py
 ```
 
 And you should get something like this:
+![image](https://user-images.githubusercontent.com/22344951/231886641-0e0d4df2-3c4f-4217-a049-67018dd8466e.png)
 
 
 ## License
