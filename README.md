@@ -19,7 +19,7 @@ First you need to get the cost data (which isn't available over the octopus API)
 ```
 https://octopus.energy/dashboard/new/accounts/<YOUR_ACCOUNT_NUMBER>/balance-history
 ```
-and scrolling down the page to the start of your billing data. Then run the contents of `get_bill_data.js` in the console of the developer tools of the page.
+and scrolling down the page to the start of your billing data. Then run the contents of [get_bill_data.js](get_bill_data.js) in the console of the developer tools of the page.
 
 Obviously this may change in the future with UI updates to this page. You'll get something like this returned:
 
